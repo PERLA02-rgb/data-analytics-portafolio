@@ -1,6 +1,6 @@
-# Data Analytics Portfolio – Lucy
+# Data Analytics Portfolio – Perla
 
-Hi! I’m Lucy, a Data Analytics enthusiast with strong skills in Excel and growing experience in SQL and Power BI.
+Hi! I’m Perla, a Data Analytics enthusiast with strong skills in Excel and growing experience in SQL and Power BI.
 
 ## 🔧 Tools & Skills
 - Excel / Google Sheets
